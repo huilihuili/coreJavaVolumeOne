@@ -9,6 +9,7 @@ public class Ch3_4 {
 
 	@Test
 	public void test() {
+		System.out.println("---");
 		double x = 0;
 		for (int i = 0; i < 11; i++) {
 			x += 0.1;
