@@ -4,10 +4,12 @@ import java.util.Scanner;
 
 import org.junit.Test;
 
-public class ch3_3 {
+public class Ch3_3 {
 
 	@Test
 	public void test() {
+		System.out.println("---");
+		
 		@SuppressWarnings("resource")
 		Scanner in = new Scanner(System.in);
 		String name = in.nextLine();
