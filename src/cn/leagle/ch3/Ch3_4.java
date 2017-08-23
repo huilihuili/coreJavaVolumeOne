@@ -103,6 +103,8 @@ public class Ch3_4 {
 	
 	@Test
 	public void test6() {
+		System.out.println("---");
+		
 		final double STARTRATE = 10;
 		
 		final int NRATES = 6;
