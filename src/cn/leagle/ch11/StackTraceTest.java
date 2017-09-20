@@ -1,7 +1,5 @@
 package cn.leagle.ch11;
 
-import java.util.Scanner;
-
 /**
  * 
  * @ClassName: StackTraceTest   
